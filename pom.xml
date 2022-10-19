@@ -33,7 +33,7 @@
 
     <properties>
         <spring>5.1.5.RELEASE</spring>
-        <jackson>2.10.0</jackson>
+        <jackson>2.13.4.1</jackson>
     </properties>
 
     <dependencies>
